@@ -1,3 +1,3 @@
-a=30
+c=30
 b=20
-print(a+b)
+print(c+b)
